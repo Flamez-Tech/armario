@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Oversized Denim Jacket",
+    "image": "assets/img/3.jpg",
+    "overlay": "1"
+  },
+  {
+    "name": "Textured Knit Sweater",
+    "image": "assets/img/4.jpg",
+    "overlay": "3"
+  },
+  {
+    "name": "Straight-Leg Black Denim",
+    "image": "assets/img/5.jpg",
+    "overlay": "2"
+  },
+  {
+    "name": "Minimalist Ribbed Polo",
+    "image": "assets/img/6.jpg",
+    "overlay": "3"
+  },
+  {
+    "name": "Lightweight Utility Jacket",
+    "image": "assets/img/5.jpg",
+    "overlay": "1"
+  },
+  {
+    "name": "Structured Two-Piece Set",
+    "image": "assets/img/6.jpg",
+    "overlay": "3"
+  }
+]

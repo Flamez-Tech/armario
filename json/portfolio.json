@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Vintage Oversize Jacket",
+    "link": "javascript:void(0);",
+    "image": "assets/img/portfolio/project1/1.jpg",
+    "height": "h-v-70",
+    "categories": ["brand", "fashion"],
+    "tag": "Out of Stock",
+    "tagColor": "background-section"
+  },
+  {
+    "title": "Knit Sweater",
+    "link": "project-2.html",
+    "image": "assets/img/portfolio/project2/1.jpg",
+    "height": "",
+    "categories": ["sports", "photography"],
+    "tag": "In Stock"
+  },
+  {
+    "title": "Linen Shirt",
+    "link": "javascript:void(0);",
+    "image": "assets/img/portfolio/project3/1.jpg",
+    "height": "h-v-60",
+    "categories": ["fashion", "photography"],
+    "tag": "Out of Stock",
+    "tagColor": "background-section"
+  },
+  {
+    "title": "The Hills - Nissan<br><span class=\"fw-200\">© 2019</span>",
+    "link": "project-4.html",
+    "image": "assets/img/portfolio/project4/1.jpg",
+    "height": "h-350",
+    "categories": ["brand", "sports"],
+    "tag": "2019"
+  },
+  {
+    "title": "Church<br>Copenhagen Denmark",
+    "link": "project-5.html",
+    "image": "assets/img/portfolio/project5/1.jpg",
+    "height": "h-500",
+    "categories": ["fashion"],
+    "tag": "2022"
+  },
+  {
+    "title": "LOST<br>RENDER <span class=\"fw-200\">© 2023</span>",
+    "link": "project-6.html",
+    "image": "assets/img/portfolio/project6/1.jpg",
+    "height": "h-500",
+    "categories": ["brand", "photography"],
+    "tag": "In Stock"
+  },
+  {
+    "title": "Samokat<br>office <span class=\"fw-200\">© 2021</span>",
+    "link": "project-7.html",
+    "image": "assets/img/portfolio/project7/1.jpg",
+    "height": "h-500",
+    "categories": ["brand", "sports"],
+    "tag": "2021"
+  }
+]
